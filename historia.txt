@@ -1,3 +1,4 @@
 Esta es la historia de Cristian mONDRAGON
 
-Aprendiendo a amanejar git y gitbash
+Aprendiendo a manejar git y gitbash
+vivo en colombia
